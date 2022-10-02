@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373513750643",
+    "project_id": "snooopy-app",
+    "storage_bucket": "snooopy-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373513750643:android:30b089edbedc2fb125c206",
+        "android_client_info": {
+          "package_name": "com.example.snooopy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373513750643-m9mb7ehjoek4tt2fpqv3gi63a367t0ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQmaaiCcO2BuVhMTQrHzFHO4opYuzx8go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373513750643-m9mb7ehjoek4tt2fpqv3gi63a367t0ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
