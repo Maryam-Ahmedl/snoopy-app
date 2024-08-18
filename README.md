@@ -2,7 +2,6 @@
 An app makes you express your negative and bad feelings and help you to be in good status by writing your feeling and saving it to know that that thing annoys you or make you 
 happy, an app reminds you to drink enough water.
 ### pages in the app
-
 ![WhatsApp Image 2024-08-18 at 10 29 34 PM (4)](https://github.com/user-attachments/assets/7a622887-4ab3-440c-8218-585c7b712c08)
 ![WhatsApp Image 2024-08-18 at 10 29 34 PM (3)](https://github.com/user-attachments/assets/73835534-53b0-4063-8413-78520a96d0ac)
 ![WhatsApp Image 2024-08-18 at 10 29 34 PM (2)](https://github.com/user-attachments/assets/5bc558b7-bbb2-4a73-bf5e-2b5c1691d481)
