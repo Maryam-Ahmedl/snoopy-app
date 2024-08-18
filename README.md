@@ -2,6 +2,7 @@
 An app makes you express your negative and bad feelings and help you to be in good status by writing your feeling and saving it to know that that thing annoys you or make you 
 happy, an app reminds you to drink enough water.
 ### pages in the app
+<img src="https://github.com/user-attachments/assets/7a622887-4ab3-440c-8218-585c7b712c08" alt="Alt text" width="500">
 ![WhatsApp Image 2024-08-18 at 10 29 34 PM (4)](https://github.com/user-attachments/assets/7a622887-4ab3-440c-8218-585c7b712c08)
 ![WhatsApp Image 2024-08-18 at 10 29 34 PM (3)](https://github.com/user-attachments/assets/73835534-53b0-4063-8413-78520a96d0ac)
 ![WhatsApp Image 2024-08-18 at 10 29 34 PM (2)](https://github.com/user-attachments/assets/5bc558b7-bbb2-4a73-bf5e-2b5c1691d481)
@@ -18,5 +19,4 @@ happy, an app reminds you to drink enough water.
 ![WhatsApp Image 2024-08-18 at 10 29 32 PM](https://github.com/user-attachments/assets/6777561d-78ba-4e4b-869f-bcb843c3ed20)
 ![WhatsApp Image 2024-08-18 at 10 29 31 PM (2)](https://github.com/user-attachments/assets/75e16473-6720-4aaf-8d1c-2149b288ef7d)
 ![WhatsApp Image 2024-08-18 at 10 29 30 PM](https://github.com/user-attachments/assets/9e76dc91-4631-4814-84c0-baeffb73af2c)
-![WhatsApp Image 2024-08-18 at 10 29 30 PM](https://github.com/user-attachments/assets/2a03af77-365d-4ca1-b1dc-9d549be47334)
 ![WhatsApp Image 2024-08-18 at 10 29 32 PM (4)](https://github.com/user-attachments/assets/6d7aed84-1875-40fc-8f7b-bf9bd29c56ae)
